@@ -11,3 +11,11 @@
 *.lai
 *.la
 *.a
+
+# Build stuff
+build-lin/
+.pl_persist
+*.cache/
+*.guess
+*~
+
